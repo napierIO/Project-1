@@ -1,0 +1,11 @@
+.main {
+  background: #2196f3;
+  height: 100vh;
+  padding: 2em;
+}
+
+.sidebar {
+  background: #f7f7f7;
+  height: 100vh;
+  padding: 2em;
+}
