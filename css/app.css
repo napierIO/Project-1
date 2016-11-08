@@ -20,6 +20,7 @@
 .sidebar--item:hover {
   transform: scale(1.2);
   background: coral;
+  border-radius: 50%;
 }
 
 .photo-grid {
