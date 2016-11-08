@@ -9,3 +9,9 @@
   height: 100vh;
   padding: 2em;
 }
+
+.sidebar--item {
+  background: #2196f3;
+  height: 120px;
+  margin: 1em auto;
+}
